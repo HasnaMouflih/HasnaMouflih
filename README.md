@@ -1,5 +1,5 @@
 ##  Hi there! Je suis Hasna MOUFLIH
- Future Data Scientist & Ingénieure IA👋
+Graduate Student in Data Science & Artificial Intelligence
 
 <!--
 **HasnaMouflih/HasnaMouflih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
