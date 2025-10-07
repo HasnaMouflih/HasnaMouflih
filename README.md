@@ -1,5 +1,4 @@
-##  Hi there! Je suis Hasna MOUFLIH
-Graduate Student in Data Science & Artificial Intelligence
+## Hi there! I’m Hasna Mouflih, a graduate student in Data Science and Artificial Intelligence.
 
 <!--
 **HasnaMouflih/HasnaMouflih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
