@@ -1,4 +1,5 @@
-## Hi there 👋
+##  Hi there! Je suis Hasna MOUFLIH
+ Future Data Scientist & Ingénieure IA👋
 
 <!--
 **HasnaMouflih/HasnaMouflih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
