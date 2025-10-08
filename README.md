@@ -1,4 +1,4 @@
-## Hi there! I’m Hasna Mouflih,
+## I’m Hasna Mouflih,
 a graduate student in Data Science and Artificial Intelligence.
 
 <!--
